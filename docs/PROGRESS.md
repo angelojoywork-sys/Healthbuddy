@@ -19,3 +19,4 @@
 
 ## Log
 - 2026-10-25: Repo created; master plan saved to `docs/PLAN.md`.
+- 2026-10-25: Inspiration deck made (private claude.ai artifact). Direction chosen: **Warm Coach** (light) + **Night Gym** mode (dark: logger, night, Apple Watch). Added voice food logging (Photo / Speak / Type) and a later Apple Watch companion to `docs/PLAN.md`. Next: brand guideline + design tokens.
